@@ -1,19 +1,190 @@
-# Hi there! 👋
+# 👋 Hi, I'm John Mula
 
-I'm **John**, a Front-End Developer who enjoys building clean, modern, and user-friendly websites. I love turning ideas into real projects and learning something new along the way.
+### Front-End Developer • UI Enthusiast • Builder
 
-# 💫 About Me:
-💻 Front-End Developer crafting clean and modern websites<br>🎨 Turning ideas into simple and beautiful interfaces<br>🚀 Always building, learning, and improving<br>🔭 Exploring new technologies and web trends<br>🌱 Growing my skills one project at a time<br>🙂 I enjoy bringing ideas to life through code
+I enjoy turning ideas into **clean, modern, and user-friendly digital experiences**.
+
+I'm a BSIT student who loves building real projects, experimenting with new technologies, and improving my skills through hands-on development.
+
+> **Build. Learn. Improve. Repeat.**
+
+---
+
+## 🚀 What I Do
+
+* 💻 Build responsive and modern web applications
+* 🎨 Design clean and intuitive user interfaces
+* 🧩 Turn ideas and requirements into working products
+* 🔧 Work with databases, APIs, authentication, and deployment
+* 📱 Explore web and mobile development
+* 🌱 Continuously learn and improve my development skills
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/johnbasilmula) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/jb.poloy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/johnmula1027) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Jazzlike-Chemistry15/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@johnbmula) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/BasilMula87109) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:johnbasilmula5@gmail.com) 
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=JohnMula&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=JohnMula&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=JohnMula&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+\
+
+### ⚙️ Backend & Database
+
+
+
+
+
+
+\
+
+### ☁️ Deployment & Tools
+
+
+
+
+
+\
+
+---
+
+## 🔭 Currently Building
+
+### 🧪 TestStudio
+
+A simple web platform for creating, sharing, and taking tests.
+
+**Highlights:**
+
+* 📝 Multiple question types
+* 🔗 Shareable test codes and links
+* 📱 QR code sharing
+* ⏱️ Timed tests
+* 🎯 Automatic grading
+* 👤 Optional accounts
+* ☁️ Cloud-synced tests and attempts
+
+**Stack:** Next.js • React • TypeScript • Tailwind CSS • Supabase
+
+---
+
+## 📌 Featured Projects
+
+### 🧪 TestStudio
+
+Create a test. Share a code. Take the test.
+
+🔗 **Live:** https://teststudio-john.vercel.app
+
+---
+
+### 🗺️ Crimson Map
+
+An AR navigation project designed to help users navigate a campus and find buildings and rooms.
+
+**Focus:** AR Navigation • Mapping • Location Data • Unity • C#
+
+---
+
+### 💼 POS & Inventory System
+
+A point-of-sale and inventory management system developed as part of my development experience.
+
+**Focus:** Inventory • Sales • Database Management • Business Operations
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=JohnMula&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnMula&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=JohnMula&theme=tokyonight&hide_border=true" width="70%"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JohnMula&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=JohnMula&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%"/>
+
+</div>
+
+---
+
+## 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=JohnMula&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.facebook.com/johnbasilmula">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/jb.poloy"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
+
+<a href="https://www.linkedin.com/in/johnmula1027">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.reddit.com/user/Jazzlike-Chemistry15/">
+<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
+</a>
+
+<a href="https://www.tiktok.com/@johnbmula">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
+
+<a href="https://x.com/BasilMula87109">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="mailto:[johnbasilmula5@gmail.com](mailto:johnbasilmula5@gmail.com)">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 Thanks for visiting!
+
+**I'm always learning, building, and looking for the next idea to bring to life.**
+
+⭐ Feel free to explore my repositories and projects.
+
+</div>
