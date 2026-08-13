@@ -1,147 +1,24 @@
-# 👋 Hi, I'm John Mula
+# 👋 Hi there, I'm **John!**
 
-### Front-End Developer • UI Enthusiast • Builder
+### 💻 Front-End Developer • 🎨 UI Enthusiast • 🚀 Builder
 
-I enjoy turning ideas into **clean, modern, and user-friendly digital experiences**.
-
-I'm a BSIT student who loves building real projects, experimenting with new technologies, and improving my skills through hands-on development.
-
-> **Build. Learn. Improve. Repeat.**
-
----
-
-## 🚀 What I Do
-
-* 💻 Build responsive and modern web applications
-* 🎨 Design clean and intuitive user interfaces
-* 🧩 Turn ideas and requirements into working products
-* 🔧 Work with databases, APIs, authentication, and deployment
-* 📱 Explore web and mobile development
-* 🌱 Continuously learn and improve my development skills
-
----
-
-## 🛠️ Tech Stack
-
-### 🌐 Frontend
-
-
-
-
-\
-
-### ⚙️ Backend & Database
-
-
-
-
-
-
-\
-
-### ☁️ Deployment & Tools
-
-
-
-
-
-\
-
----
-
-## 🔭 Currently Building
-
-### 🧪 TestStudio
-
-A simple web platform for creating, sharing, and taking tests.
-
-**Highlights:**
-
-* 📝 Multiple question types
-* 🔗 Shareable test codes and links
-* 📱 QR code sharing
-* ⏱️ Timed tests
-* 🎯 Automatic grading
-* 👤 Optional accounts
-* ☁️ Cloud-synced tests and attempts
-
-**Stack:** Next.js • React • TypeScript • Tailwind CSS • Supabase
-
----
-
-## 📌 Featured Projects
-
-### 🧪 TestStudio
-
-Create a test. Share a code. Take the test.
-
-🔗 **Live:** https://teststudio-john.vercel.app
-
----
-
-### 🗺️ Crimson Map
-
-An AR navigation project designed to help users navigate a campus and find buildings and rooms.
-
-**Focus:** AR Navigation • Mapping • Location Data • Unity • C#
-
----
-
-### 💼 POS & Inventory System
-
-A point-of-sale and inventory management system developed as part of my development experience.
-
-**Focus:** Inventory • Sales • Database Management • Business Operations
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JohnMula&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnMula&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-
-</div>
+I enjoy building **clean, modern, and user-friendly websites**.
+I love turning ideas into real projects and learning something new along the way.
 
 <br>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=JohnMula&theme=tokyonight&hide_border=true" width="70%"/>
-
-</div>
+> **"Build something. Learn something. Improve something."**
 
 ---
 
-## 📈 Contribution Activity
+## 💫 About Me
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JohnMula&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JohnMula&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%"/>
-
-</div>
-
----
-
-## 👀 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=JohnMula&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-
-</div>
+💻 **Front-End Developer** crafting clean and modern websites
+🎨 **UI-focused** and passionate about simple, beautiful interfaces
+🚀 **Always building, learning, and improving**
+🔭 Exploring **new technologies and web trends**
+🌱 Growing my skills **one project at a time**
+🙂 I enjoy **bringing ideas to life through code**
 
 ---
 
@@ -171,20 +48,76 @@ A point-of-sale and inventory management system developed as part of my developm
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-<a href="mailto:[johnbasilmula5@gmail.com](mailto:johnbasilmula5@gmail.com)">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="mailto:[johnbasilmula5@gmail.com](mailto:johnbasilmula5@gmail.com)"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 
 </p>
 
 ---
 
-<div align="center">
+## 💻 Tech Stack
 
-### 💡 Thanks for visiting!
+### 🌐 Development
 
-**I'm always learning, building, and looking for the next idea to bring to life.**
 
-⭐ Feel free to explore my repositories and projects.
 
-</div>
+
+
+\
+
+### 🗄️ Database & Backend
+
+
+
+
+
+\
+
+### ☁️ Tools & Platforms
+
+
+
+
+
+\
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">   <img src="https://github-readme-stats.vercel.app/api?username=JohnMula&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180"/>   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnMula&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/> </p>
+
+<br>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=JohnMula&theme=tokyonight&hide_border=true" width="70%"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JohnMula&theme=tokyo-night&hide_border=true&area=true&custom_title=John's%20Contribution%20Graph" width="100%"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">   <img src="https://github-profile-trophy.vercel.app/?username=JohnMula&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%"/> </p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">   <img src="https://komarev.com/ghpvc/?username=JohnMula&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile Views"/> </p>
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Always learning. Always building. Always improving.**
+
+</p>
