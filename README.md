@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm **John**, a Front-End Developer who enjoys building clean, modern, and user-friendly websites. I love turning ideas into real projects and learning something new along the way.
+I'm **John**, a Fullstack Developer who enjoys building clean, modern, and user-friendly websites. I love turning ideas into real projects and learning something new along the way.
 
 # 💫 About Me:
 💻 Front-End Developer crafting clean and modern websites<br>🎨 Turning ideas into simple and beautiful interfaces<br>🚀 Always building, learning, and improving<br>🔭 Exploring new technologies and web trends<br>🌱 Growing my skills one project at a time<br>🙂 I enjoy bringing ideas to life through code
