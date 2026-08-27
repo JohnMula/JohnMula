@@ -1,5 +1,5 @@
 # Hi there!👋
-
+hello
 I'm **John**, a Fullstack Developer who enjoys building clean, modern, and user-friendly websites. I love turning ideas into real projects and learning something new along the way.
 
 # 💫 About Me:
